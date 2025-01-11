@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask environment files
+instance/
+.env
+*.env
+
+# Static files generated at runtime
+static/faces/
+static/*.pkl
+
+# Data files
+data/Attendance/*.csv
+data/dataset/raw/
+data/dataset/processed/
+
+# Logs
+*.log
+logs/
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Python virtual environment
+venv/
+.env/
+*.egg-info/
+
+# Testing outputs
+htmlcov/
+coverage.xml
+*.cover
+.cache
+
+# Build artifacts
+build/
+dist/
+*.egg
+*.pyc
+*.pyo
+
+
