@@ -1,0 +1,12 @@
+
+[1] F. Schroff, D. Kalenichenko, and J. Philbin, "FaceNet: A unified embedding for face recognition and clustering," *2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Boston, MA, USA, 2015, pp. 815-823, doi: 10.1109/CVPR.2015.7298682.
+
+[2] A. Jaiswal, S. Pandey, and M. Jangir, "Contactless Attendance System Using Face Recognition," *2020 International Conference on Computational Intelligence for Smart Power System and Sustainable Energy (CISPSSE)*, Keonjhar, India, 2020, pp. 1-5, doi: 10.1109/CISPSSE49931.2020.9212257.
+
+[3] N. Jantarasorn, J. Whasphuttisit, and W. Jitsakul, "Face Recognition using Deep Learning," *2023 7th International Conference on Information Technology (InCIT)*, Chiang Rai, Thailand, 2023, pp. 470-474, doi: 10.1109/InCIT60207.2023.10413069.
+
+[4] D. Nivedhitha, G. Madhumitha, J. Janani Sri, S. Johnson, R. Priyanka Pramila, and D. M. Divya, "Smart Attendance System using Dlib Pre-Trained Neural Network," *2023 5th International Conference on Smart Systems and Inventive Technology (ICSSIT)*, Tirunelveli, India, 2023, pp. 1258-1261, doi: 10.1109/ICSSIT55814.2023.10060958.
+
+[5] A. Y. Strueva and E. V. Ivanova, "Student Attendance Control System with Face Recognition Based on Neural Network," *2021 International Russian Automation Conference (RusAutoCon)*, Sochi, Russian Federation, 2021, pp. 929-933, doi: 10.1109/RusAutoCon52004.2021.9537386.
+
+[6] V. M., D. R., and P. B. S., "Group Face Recognition Smart Attendance System Using Convolution Neural Network," *2022 International Conference on Wireless Communications Signal Processing and Networking (WiSPNET)*, Chennai, India, 2022, pp. 89-93, doi: 10.1109/WiSPNET54241.2022.9767128.
