@@ -1,0 +1,6 @@
+Name,Roll,Entry Time,Exit Time,Status
+John Doe,101,08:30:00,10:30:00,Present
+Jane Smith,102,08:45:00,09:30:00,Notable
+Alice Johnson,103,09:00:00,-,Absent
+Bob Williams,104,08:25:00,11:00:00,Present
+Charlie Brown,105,09:15:00,-,Absent
