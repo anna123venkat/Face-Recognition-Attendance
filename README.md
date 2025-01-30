@@ -1,7 +1,5 @@
 # Face Recognition-Based Attendance System
 
-# Face Recognition-Based Attendance System  
-
 ## Table of Contents  
 1. [Description](#description)  
 2. [Features](#features)  
