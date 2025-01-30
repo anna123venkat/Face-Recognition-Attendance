@@ -95,12 +95,8 @@ Face-Recognition-Attendance
 
 ## Result
 
-### Block Diagram
-![Block Diagram](docs/Attendance_Status.png)
-
-Here’s a **References** section you can add to the README file:  
-
----
+### Attendance Status
+![Attendance Status](docs/Attendance_Status.png)
 
 ## References  
 
