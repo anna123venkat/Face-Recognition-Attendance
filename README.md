@@ -40,7 +40,7 @@ The application is structured to:
 - Generate visual feedback and attendance logs via a user-friendly Flask interface.
 
 ## Project Structure
-
+```
 Face-Recognition-Attendance
 │── Attendance
 │   ├── Attendance-YYYY-MM-DD.csv
@@ -67,7 +67,7 @@ Face-Recognition-Attendance
 │── config.py
 │── haarcascade_frontalface_default.xml
 │── requirements.txt
-
+```
 
 ## Installation and Setup
 1. Clone this repository:
